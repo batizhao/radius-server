@@ -10,7 +10,7 @@ Radius 服务器是一个开源的网络认证服务器，它支持多种认证�
 
 ```properties
 radius.server.port=1821
-radius.secret=mysecret
+radius.server.secret=mysecret
 
 db.url=jdbc:mysql://localhost:3306/radius
 db.username=root
